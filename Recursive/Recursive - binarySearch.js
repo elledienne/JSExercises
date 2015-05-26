@@ -9,7 +9,7 @@ function binarySearch(array, number){
         } else if(array.length == 1){
           return undefined;
         }else if(toFind > array[half]){
-			return (half + fasterBS(array.slice(half, array.length), toFind)) || undefined;
+			return (half + fasterBS(array.slice(half), toFind)) || undefined;
 		} else {
 			return fasterBS(array.slice(0, half), toFind);
 		}
