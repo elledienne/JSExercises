@@ -14,4 +14,5 @@ Link to my solution's folder: link to the QUESTION page/website*
 3. [Hack Reactor precourse 1](https://github.com/elledienne/JSExercises/tree/master/HR%20precourse%201): [HR JSFundamentals](https://github.com/batmanimal/functionalJS);
 4. [Hack Reactor precourse 2](https://github.com/elledienne/JSExercises/tree/master/HR%20precourse%202): [HR JSFundamentals](https://github.com/bgando/JSFundamentals2);
 5. [Hack Reactor precourse 3](https://github.com/elledienne/JSExercises/tree/master/HR%20precourse%203): [HR JSFundamentals](https://github.com/bgando/function-exercises/);
-6. [ In progress :) ]; 
+6. [CoderByte Solutions [EASY]](https://github.com/elledienne/JSExercises/tree/master/CoderByte%20Solutions): [HR JSFundamentals](http://coderbyte.com/CodingArea/Challenges/);
+7. [ In progress :) ]; 
